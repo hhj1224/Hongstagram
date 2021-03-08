@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348657127786",
+    "project_id": "hongstagram-90ba9",
+    "storage_bucket": "hongstagram-90ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348657127786:android:cb496c1bd985666dddd513",
+        "android_client_info": {
+          "package_name": "com.example.hongstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348657127786-emmlq2u984d5sa6bqfkk6m5i8bflo7lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBktpvAbQAY1s3PX8aU7OTPAqNUcTyCa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348657127786-emmlq2u984d5sa6bqfkk6m5i8bflo7lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
